@@ -58,7 +58,7 @@ Ouvrir le fichier index.html dans un navigateur web ou un éditeur de code (ex: 
 
 📚 Concepts abordés
 
-🔹 1. Sémantique HTML5 & Conventions W3C
+🔹1. Sémantique HTML5 & Conventions W3C
 Utilisation des balises sémantiques comme :
 
 - header , footer , section , article , main , nav , etc.
