@@ -114,6 +114,8 @@ Propriétés principales :
 
 Les media queries permettent d’adapter l’affichage d’un site à différentes tailles d’écran, comme les smartphones.
 
+---
+
 📄 Licence
 
 Ce projet est sous licence MIT
