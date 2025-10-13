@@ -61,40 +61,40 @@ Ouvrir le fichier index.html dans un navigateur web ou un éditeur de code (ex: 
 🔹 1. Sémantique HTML5 & Conventions W3C
 Utilisation des balises sémantiques comme :
 
-header, footer, section, article, main, nav, etc.
+header , footer , section , article , main , nav , etc.
 
 Ces balises permettent une meilleure organisation du contenu, une meilleure accessibilité et une meilleure compatibilité avec les navigateurs et moteurs de recherche.
 
 🔹 2. Classes et Identifiants
 Utilisation des attributs class et id pour :
 
-Structurer le code
+- Structurer le code
 
-Appliquer des styles ciblés
+- Appliquer des styles ciblés
 
-Préparer l’interaction avec JavaScript (plus tard)
+- Préparer l’interaction avec JavaScript (plus tard)
 
 🔹 3. Propriétés CSS de base
 Apprentissage des propriétés courantes :
 
-Couleurs : color, background-color
+- Couleurs : color, background-color
 
-Textes : font-family, font-size, text-align, line-height
+- Textes : font-family, font-size, text-align, line-height
 
-Espacements : margin, padding
+- Espacements : margin, padding
 
-Bordures : border
+- Bordures : border
 
 Mise en forme générale : display, width, height
 
 🔹 4. Unités de mesure en CSS
 Utilisation des principales unités de mesure :
 
-px : pixels (valeurs fixes)
+- px : pixels (valeurs fixes)
 
-em, rem : tailles relatives à la police
+- em, rem : tailles relatives à la police
 
-% : pourcentages (taille relative à l’élément parent)
+- % : pourcentages (taille relative à l’élément parent)
 
 🔹 5. Mise en page avec Flexbox
 Découverte du module Flexbox pour créer des mises en page dynamiques et flexibles.
