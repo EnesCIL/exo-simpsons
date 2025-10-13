@@ -1,3 +1,4 @@
+
 # 💻 Exercice de Formation - HTML5 & CSS3
 
 ## 📝 Description
@@ -37,11 +38,10 @@ Aucun prérequis n’est nécessaire, mais avoir des notions de base en HTML et 
 /exercice-formation
 │
 ├── index.html # Fichier HTML principal
-├── styles.css # Fichier de styles CSS
-└── README.md # Ce fichier de documentation
 
-yaml
-Copier le code
+├── styles.css # Fichier de styles CSS
+
+└── README.md # Ce fichier de documentation
 
 ---
 
@@ -49,7 +49,7 @@ Copier le code
 
 1. **Cloner le dépôt ou télécharger le projet** :
    ```bash
-   git clone https://votre-url-de-repository.git
+   git clone https://github.com/EnesCIL/exo-simpsons/tree/main/simpsons
 Ouvrir le fichier index.html dans un navigateur web ou un éditeur de code (ex: VS Code).
 
 📚 Concepts abordés
@@ -91,8 +91,6 @@ em, rem : tailles relatives à la police
 
 % : pourcentages (taille relative à l’élément parent)
 
-vh, vw : taille relative à la fenêtre du navigateur
-
 🔹 5. Mise en page avec Flexbox
 Découverte du module Flexbox pour créer des mises en page dynamiques et flexibles.
 
@@ -107,4 +105,10 @@ justify-content
 align-items
 
 gap
+
+📄 Licence
+
+Ce projet est sous licence MIT
+.
+Vous pouvez l’utiliser, le modifier et le distribuer librement.
 
