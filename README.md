@@ -100,15 +100,15 @@ Découverte du module Flexbox pour créer des mises en page dynamiques et flexib
 
 Propriétés principales :
 
--display: flex
+- display: flex
 
--flex-direction
+- flex-direction
 
--justify-content
+- justify-content
 
--align-items
+- align-items
 
--gap
+- gap
 
 🔹 6. Media Queries (Responsive Design)
 
