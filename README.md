@@ -36,7 +36,9 @@ Aucun prérequis n’est nécessaire, mais avoir des notions de base en HTML et 
 ## 📁 Structure du projet
 
 /exercice-formation
+
 │
+
 ├── index.html # Fichier HTML principal
 
 ├── styles.css # Fichier de styles CSS
