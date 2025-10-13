@@ -57,6 +57,7 @@ Aucun prérequis n’est nécessaire, mais avoir des notions de base en HTML et 
 Ouvrir le fichier index.html dans un navigateur web ou un éditeur de code (ex: VS Code).
 
 📚 Concepts abordés
+
 🔹 1. Sémantique HTML5 & Conventions W3C
 Utilisation des balises sémantiques comme :
 
