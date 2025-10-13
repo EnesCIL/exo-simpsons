@@ -13,6 +13,7 @@ Les notions abordées :
 - ✅ Propriétés CSS de base
 - ✅ Unités de mesure en CSS
 - ✅ Mise en page avec **Flexbox**
+- ✅ Utilisation de **media queries** pour le responsive
 
 ---
 
@@ -22,8 +23,9 @@ Les notions abordées :
 - Respecter les conventions de codage W3C
 - Utiliser les classes et identifiants pour styliser les éléments
 - Appliquer les principales propriétés CSS
-- Maîtriser les unités de mesure CSS (`px`, `em`, `%`, `vh`, `vw`, etc.)
+- Maîtriser les unités de mesure CSS (`px`, `em`, `%`, `vh`, etc.)
 - Mettre en place des mises en page flexibles avec **Flexbox**
+- Rendre une page responsive avec les **media queries**
 
 ---
 
@@ -58,7 +60,7 @@ Ouvrir le fichier index.html dans un navigateur web ou un éditeur de code (ex: 
 🔹 1. Sémantique HTML5 & Conventions W3C
 Utilisation des balises sémantiques comme :
 
-<header>, <footer>, <section>, <article>, <main>, <nav>, etc.
+header, footer, section, article, main, nav, etc.
 
 Ces balises permettent une meilleure organisation du contenu, une meilleure accessibilité et une meilleure compatibilité avec les navigateurs et moteurs de recherche.
 
@@ -107,6 +109,10 @@ justify-content
 align-items
 
 gap
+
+🔹 6. Media Queries (Responsive Design)
+
+Les media queries permettent d’adapter l’affichage d’un site à différentes tailles d’écran, comme les smartphones.
 
 📄 Licence
 
